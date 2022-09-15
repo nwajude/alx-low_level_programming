@@ -14,7 +14,7 @@ int _isupper(int c)
 		if (c == uppercase)
 			return (1);
 		uppercase++;
-		}
+	}
 
 		return (0);
 }
