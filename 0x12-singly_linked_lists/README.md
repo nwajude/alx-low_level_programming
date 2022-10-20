@@ -1,1 +1,1 @@
-Singly 
+Singly varaibles 
