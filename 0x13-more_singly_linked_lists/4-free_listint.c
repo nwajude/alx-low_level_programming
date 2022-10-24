@@ -1,4 +1,4 @@
-nclude "lists.h"
+include "lists.h"
 
 /**
  *  * free_listint - A function that frees a linked list
